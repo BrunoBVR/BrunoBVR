@@ -57,7 +57,7 @@ I'm Bruno! To model the world through numerical experiments is an old passion of
 
 [![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoBVR)](https://github.com/BrunoBVR/github-readme-stats)
 
-<img src="https://media.giphy.com/media/KnzrXjItvBhHpHuptZ/giphy.gif" width="50">
+<img src="https://media.giphy.com/media/KnzrXjItvBhHpHuptZ/giphy.gif" width="50"> **Free joke**
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
