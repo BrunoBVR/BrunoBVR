@@ -23,7 +23,7 @@
 
 <br />
 
-I'm Bruno! To model the world through numerical experiments is an old passion of mine. My background in theoretical physics has allowed me to research many ways to build numerical solutions to complex problems. From Molecular Dynamics to Monte Carlo methods, I have seen the wonders that computer simulations can do to shed some light on amazing problems. I have been working as a professor since late 2014, and during my studies I came across the amazing world of data. How beautiful, challenging and messy it is! Getting to know and work with it is something I want to get lost in for life. The way ahead is long and ever changing, but I will start small and grow from the basics to keep on getting new insights from data and learning new and cool ways to work and share knowledge!
+I'm Bruno! To model the world through numerical experiments is an old passion of mine. My background in theoretical physics has allowed me to research many ways to build numerical solutions to complex problems. During my studies I came across the amazing world of data. How beautiful, challenging and messy it is! Getting to know and work with it is something I want to get lost in for life. The way ahead is long and ever changing, but I will start small and grow from the basics to keep on getting new insights from data and learning new and cool ways to work and share knowledge!
 
 
 - 🔭 I’m currently working on **wooing some data**
